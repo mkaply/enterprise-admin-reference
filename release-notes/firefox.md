@@ -10,11 +10,11 @@ Firefox ESR 153 is the current ESR.
 
 ### New in Firefox 158
 
-- [`RelaunchRequired`](/reference/policies/relaunchrequired/): Require Firefox Enterprise to be relaunched within a given period and notify the user of the upcoming relaunch.
+- [`RelaunchRequired`](/reference/policies/relaunchrequired/): Require Firefox to be relaunched within a given period and notify the user of the upcoming relaunch.
 
 ### New in Firefox ESR 153.5.0
 
-- [`RelaunchRequired`](/reference/policies/relaunchrequired/): Require Firefox Enterprise to be relaunched within a given period and notify the user of the upcoming relaunch.
+- [`RelaunchRequired`](/reference/policies/relaunchrequired/): Require Firefox to be relaunched within a given period and notify the user of the upcoming relaunch.
 
 ### Changes
 
